@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: aqua;
+}
+.navbar a{
+    font-size: 35px;
+    padding-right: 30px;
+    text-decoration: none;
+}
+.navbar a:hover{
+    color: black;
+}
+#img1{
+    height: 500px;
+    width: 500px;
+    float: right;   
+}
+.home .home-left{
+    text-align: justify;
+    font-size: 30px;
+}
+.home{
+    display: flex;
+}
