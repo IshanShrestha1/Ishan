@@ -63,4 +63,17 @@ footer{
 
 .footer-text{
     color: white;
+}.footer-link a:hover{
+    color: blueviolet;
+}
+.project{
+    display: flex;
+}
+.ab{
+    height: 200px;
+    width: 200px;
+}
+.b{
+    height: 200px;
+    width: 200px;
 }
