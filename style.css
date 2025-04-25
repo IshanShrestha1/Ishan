@@ -66,14 +66,36 @@ footer{
 }.footer-link a:hover{
     color: blueviolet;
 }
-.project{
+.layout{
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+
 }
 .ab{
-    height: 200px;
-    width: 200px;
+    height: 190px;
+    width: 100%;
 }
-.b{
-    height: 200px;
-    width: 200px;
+.my-project{
+    margin: 20px;
+}
+#project{
+    text-align: center;
+}
+.l-page{
+    text-align: center;
+}
+.a-navbar{
+    text-align: center;
+}
+.card{
+    border: 2px solid black;
+    width: 27%;
+    margin: 20px;
+    background-color: rgb(201, 196, 196);
+    padding: 5px;
+}
+.card-text{
+    text-align: center;
 }
